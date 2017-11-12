@@ -92,6 +92,11 @@ figcaption {
   background: #ccc;
 }
 
+.clearfix:after {
+  content: ".";
+  display: block;
+}
+
 [class*="col-"] {
   margin-left: 2%;
 }
