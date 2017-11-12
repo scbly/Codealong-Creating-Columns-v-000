@@ -113,3 +113,10 @@ img, video, audio {
 .first {
   margin-left: 0%;
 }
+
+/*////////SECTION////////*/
+
+section {
+  margin-bottom: 20px;
+  padding: 20px;
+}
